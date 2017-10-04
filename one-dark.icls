@@ -4,7 +4,7 @@
     <property name="created">2017-01-08T11:45:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-31T11:52:34</property>
+    <property name="modified">2017-08-08T11:49:52</property>
     <property name="originalScheme">MrZuraOneDark_v3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -936,7 +936,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
-        <option name="BACKGROUND" value="272822" />
+        <option name="BACKGROUND" value="2b2c26" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
